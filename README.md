@@ -1,5 +1,3 @@
-![I like to build cool shit](https://res.cloudinary.com/dt8g3rhcy/image/upload/v1595929574/i_like_to_build_cool_shit._1_nzbwjh.png)
-
 Hey y'all, I'm Emma! I'm a Software Engineer at Spotify in Stockholm, Sweden. Born and raised in Red Hook, New York I moved down to Austin, Texas after college to join IBM as a Software Engineer. I worked on Quantum Computing, Linux on Power Developer Portal, IBM Support, and Spectrum Control for three years before uprooting my two kitties and moving to Germany. I worked in Karlsruhe, Germany on GoToMeeting for two and a half years before I moved to Stockholm this July to begin my dream job at Spotify!
 
 In my spare time I create courses for [Frontend Masters](https://frontendmasters.com/courses/design-systems/) and [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/). I podcast for the [Ladybug Podcast](http://ladybug.dev/) and [JSParty](https://changelog.com/jsparty). And I blog on my personal blog [Compiled](http://compiled.blog/).
